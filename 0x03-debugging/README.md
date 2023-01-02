@@ -1,1 +1,1 @@
-echo C - Debugging > README.md
+myreadme
